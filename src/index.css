@@ -27,6 +27,10 @@ body {
   margin-bottom: 20px;
 }
 
+.header-btn {
+  transition: .2s;
+}
+
 .btn {
   display: inline-block;
   background: #000;
